@@ -2,8 +2,8 @@ clc
 clear
 close all
 
-% This code plots dipestion relation for zero potensial 
-% see Figure 5 in M. Ettehad and B. Hatinoglu, On the Spectra of Periodic Elastic Beam Lattices: Single-Layer Graph, submitted, 2021.
+% This code plots dipestion relation for zero potensial, see Figure 5 in:
+% M. Ettehad and B. Hatinoglu, On the Spectra of Periodic Elastic Beam Lattices: Single-Layer Graph, submitted, 2021.
 
 
 % choice of Brillouin zone, 
@@ -67,20 +67,3 @@ height=900;
 set(gcf,'position',[200,200,width,height]);
 set(gcf,'color','w');
 view([-60 -60 8])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
